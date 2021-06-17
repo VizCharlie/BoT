@@ -1,7 +1,7 @@
 # BoT
 Initial Commit
 
-This Consist of Basic Discord Bot with following features:
+This Consist of code for Basic Discord Bot with following features:
 1. Welcome a new member in discord server
 2. Reply on Hello from user
 3. Ping Bot Status
