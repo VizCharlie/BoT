@@ -1,5 +1,11 @@
 # BoT
-Initial Commit
+
+**Tech used**
+* pyhton      Version: 3.9.5
+* pip         Version: 21.1.2
+* discord.py  Version: 1.7.3
+* google      Version: 3.0.0 _OPTION: Only used for google search feature
+
 
 This Consist of code for Basic Discord Bot with following features:
 1. Welcome a new member in discord server
